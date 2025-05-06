@@ -1,4 +1,4 @@
-# Taller-02---Metodos-numericos
+# Taller 02 Métodos numéricos
 
 ## Ian Oñate y Pablo Pacheco
 
